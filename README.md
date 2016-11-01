@@ -7,6 +7,7 @@ write react in single file with webpack
 1. combine jsx and css in single file
 2. support less,sass
 3. support style scoped
+
 ## example
 
 ```
@@ -86,7 +87,8 @@ import About from 'About.react'
 ## What next
 
 1.support sourceMap
-
 ~~2.support style scope~~
 
-You can contact me if you have any idea.
+And then i will write plugin with common editor such as `vscode`,`sublime` for code snnipets and highlight
+
+You can contact me if you have any idea.You also can join us to help single-react stronger.
