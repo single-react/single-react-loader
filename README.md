@@ -1,7 +1,6 @@
 # single-react-loader
 
-[中文版](https://github.com/sunOpar/webpack-react-loader/blob/master/README-zh.md)
-
+[中文版](https://github.com/single-react/single-react-loader/blob/master/README-zh.md)
 write react in single file with webpack
 
 ## feature
