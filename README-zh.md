@@ -84,6 +84,21 @@ import About from 'About.react'
 
 ```
 
+### vscode编辑器下的语法高亮和代码提示
+
+强烈推荐前端童鞋使用vscode编写代码，功能强大还很轻量，并且支持中文。
+
+如何使`.react`文件在vscode下有语法高亮代码提示功能呢
+1. 打开vscode，找到用户设置，这个文件名应该叫`settings.json`
+2. 输入如下代码
+```
+{
+  "files.associations": {
+    "*.vue": "vue"
+  }
+}
+```
+大功告成。
 ## 下一步计划
 
 

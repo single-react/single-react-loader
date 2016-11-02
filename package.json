@@ -1,11 +1,11 @@
 {
     "name": "singles-react-loader",
-    "version": "0.3.4",
+    "version": "0.3.5",
     "description": "webpack react-loader single-file",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "push":"git push -u origin master&npm publish"
+        "push": "git push -u origin master&npm publish"
     },
     "repository": {
         "type": "git",

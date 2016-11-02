@@ -84,11 +84,21 @@ import About from 'About.react'
 
 ```
 
+### highlight and snippet in vscode
+
+Place the following snippet into your settings file.
+
+{
+  "files.associations": {
+    "*.react": "html"
+  }
+}
+
 ## What next
 
 1.support sourceMap
 ~~2.support style scope~~
 
-And then i will write plugin with common editor such as `vscode`,`sublime` for code snnipets and highlight
+And then i will write plugin with common editor such as `sublime` for code snnipets and highlight
 
 You can contact me if you have any idea.You also can join us to help single-react stronger.
