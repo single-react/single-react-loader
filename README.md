@@ -87,12 +87,13 @@ import About from 'About.react'
 ### highlight and snippet in vscode
 
 Place the following snippet into your settings file.
-
+```
 {
   "files.associations": {
     "*.react": "html"
   }
 }
+```
 
 ## What next
 

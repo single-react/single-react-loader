@@ -91,6 +91,7 @@ import About from 'About.react'
 如何使`.react`文件在vscode下有语法高亮代码提示功能呢
 1. 打开vscode，找到用户设置，这个文件名应该叫`settings.json`
 2. 输入如下代码
+
 ```
 {
   "files.associations": {
@@ -98,6 +99,7 @@ import About from 'About.react'
   }
 }
 ```
+
 大功告成。
 ## 下一步计划
 
